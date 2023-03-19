@@ -1,7 +1,7 @@
 <h1>Pong!</h1>
 
 <h2>Description</h2>
-This project is a Python implementation of the classic arcade game Pong!, created using the Turtle library. The main objective of this project was to develop my skills in class methods and objects in Python, create a Graphical User Interface (GUI), and implement sound effects.
+This project is a Python implementation of the classic arcade game Pong, created using the Turtle library. The main objective of this project was to develop my skills in class methods and objects in Python, create a Graphical User Interface (GUI), and implement sound effects.
 
 In this project, the turtle module is used for building the game. The window size is set to 800x600 pixels using the setup function of the Turtle screen. The game window is updated using the tracer function, which stops the window from updating and hence speeds up the game.
 
